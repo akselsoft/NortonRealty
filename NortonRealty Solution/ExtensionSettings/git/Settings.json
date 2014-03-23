@@ -2,5 +2,5 @@
 	"serverType": "github",
 	"gitURL": "https://github.com/akselsoft",
 	"gitEmail": "andrew@aksel.com",
-	"gitIsPrivateRepository": "false"
+	"gitIsPrivateRepository": "true"
 }
