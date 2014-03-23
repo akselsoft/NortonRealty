@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<directory>
+﻿<?xml version="1.0" encoding="UTF-8"?><directory>
 	<group ID="01000000000000000000000000000000" name="Admin">
+		<include user="andrew" ID="5C9A5C3D6D321745BDF253835F290053"/>
+		<include user="chris" ID="F2481986D10E6146ABCA1ECC96C8B44B"/>
 	</group>
+	<user ID="F2481986D10E6146ABCA1ECC96C8B44B" name="chris" fullName="Chris Norton" password="34c621a4e9b75fe4cf45e76c6a23f6e9"/>
+	<user ID="5C9A5C3D6D321745BDF253835F290053" name="andrew" fullName="Andrew MacNeill" password="044af4263bc034310437daba431d4a14"/>
 </directory>
-
